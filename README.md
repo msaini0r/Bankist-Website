@@ -7,7 +7,7 @@ THis is a modern and minimalistic bank webiste programmed with help of Html & Cs
 You can check the site by clicking here - <a href="https://msaini0r.github.io/VPN-Website/">Link</a>
 
 ## Preview ✅
-
+<hr>
 <table style="border:1px solid;">
 <!--   <tr >
     <th style="text-align: center; border:1px solid;"> Preview </th>
