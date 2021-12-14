@@ -18,7 +18,6 @@ You can check the site by clicking here - <a href="https://msaini0r.github.io/VP
     </p>
   </tr>
 </table>
-<br>
 <hr>
 
 <h1 align="center">⚡Connect with me⚡</h1>
