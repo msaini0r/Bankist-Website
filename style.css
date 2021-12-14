@@ -114,7 +114,7 @@ img {
   filter: blur(20px);
 }
 
-/* NAVIGATION */
+/* NAVIGATION Section */
 .nav {
   display: flex;
   justify-content: space-between;
